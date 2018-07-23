@@ -4,9 +4,9 @@ from l_ms_api.MessagingClient import MessagingClient
 from l_ms_api.Tracer import Tracer
 import os
 
-cl = MessagingClient(channelAccessToken="INPUT_YOUR_TOKEN")
+cl = MessagingClient(channelAccessToken="TZGVhaHsHKplyRcbwCVMXkpBWEIzD8vqAxlKi5C+23XtzdsLqY8rSFXrfL7j7EDcAt9T/GIpiVOpNJeeTfUKiG/jnAD+JhsSV8fiaB1AizSSTyAl4kH/DORXxnN8a/KZ/6xT5YfnmWCmXsm1nfWW4AdB04t89/1O/w1cDnyilFU=")
 tracer = Tracer()
-admin = "INPUT_YOUR_USER_ID"
+admin = "ub07f6d4181b2e0c4f04d6e416efcc075"
 
 def executer(msg):
         try:
